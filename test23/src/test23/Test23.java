@@ -5,5 +5,6 @@ public class Test23 {
 		int b=3;
 		int a=1;
 		System.out.println(b);
+		System.out.println(a);
 	}
 }
